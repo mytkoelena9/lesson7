@@ -117,7 +117,9 @@ margin-bottom: 48px;}
 	.title-container {
 	margin-bottom: 100px;}
 
- 	p {margin-bottom: 30px;}
+ 	
+ 	.dima__container p,
+	.kris__container p {margin-bottom: 30px;}
 
   	a {font-family: "Santens Regular";
 	color: #fc46a1;
