@@ -117,7 +117,6 @@ margin-bottom: 48px;}
 	.title-container {
 	margin-bottom: 100px;}
 
- 	
  	.dima__container p,
 	.kris__container p {margin-bottom: 30px;}
 
@@ -136,7 +135,8 @@ margin-bottom: 48px;}
 	background: url(../img/kris.png) top / 100% no-repeat;
 	background-attachment: fixed;
 	background-size:cover ;
-	padding: 100px;}
+	padding: 100px;
+    min-height: 1700px;}
 
 	.kris__container,
 	.dima__container{
@@ -174,171 +174,25 @@ margin-bottom: 48px;}
 		color: #f7f3f5;}
 
 
-	
-
-	.button,
-	.yutube,
-	.tiktok {
-	display: inline-block;
-	margin-left: 60px;
-	font-size: 180px;}
-
-
-
-	footer{
-	background-color: #000;
-	padding: 300px 100px;}
-font-weight: 400;
-line-height: 26px;}
-
-
-[class*="__container"] {
-max-width: 780px;
-margin: 0 auto;
-padding: 0 15px;}
-
-
-.title__container{
-font-weight: 900;
-font-size: 46px;
-line-height: 60px;
-color: #1E212C;
-margin-bottom: 40px; }
-
-img {max-width: 100%;}
-
-.photo__container{
-margin-bottom: 60px;}
-
-
-.ferst-block,
-.third-block{
-font-weight:700;
-font-size: 20px;
-line-height:30px;
-color: #1E212C;
-text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-margin-bottom: 48px;}
-
-.second-block
-{margin-bottom: 48px;}
-
-.second__container
-{margin-bottom: 24px ;}
-
-
-
-.third-block
-{padding-left: 58px;
-text-shadow: none;
-margin-bottom: 48px;}
-	
-.fourth-block
-{margin-bottom: 24px;}
-	
-ul{margin-bottom: 24px;}
-	
-li{margin: 0 0 4px 32px;}
-	
-.list-block
-{margin-left: 24px;}
-
-.fifth-block {margin-bottom:50px;}
-
-
-
-.shit-i-know{
-	background-color: #000;
-	padding: 80px  130px ;
-}
-.logo{	
-	
-	border-radius: 50%;
-	width: 150px;
-	height: 150px;
-	border:8px double #f6f2f6;}
-
- h2 {
-	text-align: center;
-	font-size: 90px;
-	line-height: 80px;
-	letter-spacing: 8px;
-	
-	font-family:"CircularStd";
-	color: #f6f2f6;
-	text-shadow: 0px 4px 4px hsl(0, 7%, 33%);}
-
-
-	.title-container {
-	margin-bottom: 100px;}
-
- 	p {margin-bottom: 30px;}
-
-  	a {font-family: "Santens Regular";
-	color: #fc46a1;
-	font-size: 100px;}
-	
-	.kris-inst,
-	.dima-inst{
-	font-size: 80px;
-	font-family:"CircularStd";
-	color: #fc46a1;}
-
-	.kris-block,
-	.dima-block {
-	background: url(../img/kris.png) top / 100% no-repeat;
-	background-attachment: fixed;
-	background-size:cover ;
-	padding: 100px;}
-
-	.kris__container,
-	.dima__container{
-	font-size: 40px;
-	line-height: 50px;
-	color: #f6f2f6;
-	overflow: scroll;
-	min-height: 1700px;
-	
-	background-color: rgba(78, 101, 194, 0.239);
-	padding: 40px;}
-
-	
-	.dima-block {
-	background: url(../img/dima.jpg) top / 100% no-repeat;
-	background-size:cover ;
-	background-attachment: fixed;
-	padding: 100px;}
-
-	.content-block{
-		padding: 10px;
-		color: #fc46a1;
-		background-color: #000;}
-
-	
-	.content-text
-
-	{	font-size: 60px;
-		line-height: 80px;
-		letter-spacing: 8px;
-
-		text-align: center;
-		padding: 80px 50px;
+	.button {
 		
-		font-family:"CircularStd";
-		color: #f7f3f5;}
+		text-align: center;
 
+	}
+		
 
-	
-
-	.button,
+	.button-page,
 	.yutube,
-	.tiktok {
+	.tiktok{
 	display: inline-block;
-	margin-left: 60px;
-	font-size: 180px;}
+	padding: 50px;
+	font-size: 300px;
+  
+    margin: 100px 50px;}
 
 
 
 	footer{
 	background-color: #000;
-	padding: 300px 100px;}
+	min-height: 500px;
+	}
