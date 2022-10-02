@@ -295,6 +295,7 @@ li{margin: 0 0 4px 32px;}
 	line-height: 50px;
 	color: #f6f2f6;
 	overflow: scroll;
+	min-height: 1700px;
 	
 	background-color: rgba(78, 101, 194, 0.239);
 	padding: 40px;}
